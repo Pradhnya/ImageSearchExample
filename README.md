@@ -1,4 +1,4 @@
-<h1>GridSearchImage Demo</h1>
+<h1>Grid Image Search</h1>
 
 <p>
 This is an Android demo application for displaying the Images  using the Google Image Search API.
